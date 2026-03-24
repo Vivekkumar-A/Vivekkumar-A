@@ -23,7 +23,7 @@ Passionate about automation, cloud technologies, and building scalable systems.
 - Kubernetes
 - Ansible
 
-  🖥️ Operating Systems:
+🖥️ Operating Systems:
 - Linux (user management, permissions, services, logs)
 - Windows 
 - shell scripting
@@ -74,7 +74,7 @@ I strongly believe in continuous learning. I’m currently improving my skills i
 
 ## 🤝 Let's Connect
 
-Feel free to connect with me on 🔗[LinkedIn](www.linkedin.com/in/vivekkumar-ambatpure)  
+Feel free to connect with me on 🔗[LinkedIn](https://www.linkedin.com/in/vivekkumar-ambatpure/)  
 or reach out via email at 📧 (vivekkumarambatpure@gmail.com)
 
 I’m always open to discussing new opportunities, collaborations, or just connecting with fellow tech enthusiasts.
