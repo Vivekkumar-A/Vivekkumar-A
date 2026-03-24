@@ -1,4 +1,4 @@
-![Cloud Engineer Banner](Elegant GitHub Banner for Vivekkumar Ambatpure.jpg)
+![Cloud Engineer Banner](./Banner.jpg)
 
 # 👋 Hello, I'm Vivekkumar Ambatpure!
 
