@@ -74,9 +74,8 @@ I strongly believe in continuous learning. I’m currently improving my skills i
 
 ## 🤝 Let's Connect
 
-Feel free to connect with me on 🔗[LinkedIn](https://www.linkedin.com/in/nagesh.jaybhay)  
-Check out my [Portfolio Website] 🌐(http://amaz-nagesh.s3-website.ap-south-1.amazonaws.com/#about)  
-or reach out via email at 📧 [nageshjaybhaye123@gmail.com](nageshjaybhaye123@gmail.com).
+Feel free to connect with me on 🔗[LinkedIn](www.linkedin.com/in/vivekkumar-ambatpure)  
+or reach out via email at 📧 (vivekkumarambatpure@gmail.com)
 
 I’m always open to discussing new opportunities, collaborations, or just connecting with fellow tech enthusiasts.
 
