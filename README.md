@@ -11,20 +11,7 @@ Currently building skills in Linux, Git, Docker, CI/CD, and cloud infrastructure
 Passionate about automation, cloud technologies, and building scalable systems.
 
  ## 🚀 Skills & Technologies
-
-☁️ Cloud & AWS Services:
-- Amazon EC2
-- Amazon S3
-- VPC
-- IAM
-- CloudWatch
-- AWS Lambda 
-- API Gateway
-
-🖥️ Operating Systems:
-- Linux (user management, permissions, services, logs)
-- shell scripting
-
+ 
 🔁 DevOps & Automation:
 - Git & GitHub
 - CI/CD fundamentals
@@ -35,7 +22,22 @@ Passionate about automation, cloud technologies, and building scalable systems.
 - Docker
 - Kubernetes
 - Ansible
-  
+
+  🖥️ Operating Systems:
+- Linux (user management, permissions, services, logs)
+- Windows 
+- shell scripting
+
+☁️ Cloud AWS and Azure :
+- Amazon EC2 / Azure VM
+- Amazon S3 /Azure Blob
+- VPC
+- IAM
+- CloudWatch
+- AWS Lambda 
+- API Gateway
+
+
 💻 Programming & Scripting:
 - Python 
 - Bash scripting
